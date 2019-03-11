@@ -80,11 +80,15 @@ footer .home .name {
     width: 100%;
 }
 .shop .shoptab{
+
     width: 100%;
     display: flex;
 }
 .shop .shoptab a{
     width:50%;
+}
+.shop .shoptab li{
+    list-style: none;
 }
 .shop .shoptab img {
     width:100%;
@@ -93,6 +97,7 @@ footer .home .name {
     display: flex;
 }
 .shop .shopclass li{
+   list-style: none;
     width: 25%;
 }
 .shop .shopclass li a{
@@ -111,6 +116,7 @@ footer .home .name {
     flex-wrap: wrap;
 }
 .shop .shopcommend li{
+    list-style-type: none;
     width:50%;
 }
 .shop .shopcommend li a{
